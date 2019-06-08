@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="View.ascx.cs" Inherits="FortyFingers.ZendeskSso.View" %>
+<asp:LinkButton runat="server" ID="ToZendeskLink" OnClick="ToZendeskLink_OnClick">To Zendesk</asp:LinkButton>
